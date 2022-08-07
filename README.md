@@ -12,8 +12,7 @@ I'm Paola Siqueira, also known as Kala. 👋
  
   📫 How to reach me:
   <div> 
-    <a href = "mailto:paolaissiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-    <a href="https://www.linkedin.com/in/siqueirapaola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/siqueirapaola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 
