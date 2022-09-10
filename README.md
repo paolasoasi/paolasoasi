@@ -1,5 +1,5 @@
 ## Hello, and welcome! 
-I'm Paola Siqueira, also known as Kala. 👋
+I'm Paola Siqueira. 👋
  ##
 🌱 I’m currently learning:
 <div style="display: inline_block">
