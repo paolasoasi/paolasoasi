@@ -1,4 +1,4 @@
-## Olá < visitante/>! 
+## Olá, < visitante/>! 
 
 Obrigada por acessar o meu perfil! 👩🏽‍💻 
 
@@ -22,7 +22,7 @@ Vamos juntos nessa?
 
 #
 
-Hello < visitor/>!
+Hello, < visitor/>!
 
 Thank you for accessing my profile! 👩🏽‍💻 
 
