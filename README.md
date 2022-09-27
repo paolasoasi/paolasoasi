@@ -1,4 +1,6 @@
-## Olá < visitante/>, obrigada por acessar o meu perfil! 👩🏽‍💻 
+## Olá < visitante/>! 
+
+Obrigada por acessar o meu perfil! 👩🏽‍💻 
 
 Atualmente curso Análise e Desenvolvimento de Sistemas pela faculdade Descomplica. 
 Estudo e pratico diariamente, ingressando em cursos extras e adquirindo bolsas. 
@@ -18,9 +20,11 @@ Estou 100% opentowork, buscando uma oportunidade de estágio que me permita flor
 
 Vamos juntos nessa? 
 
--
+#
 
-Hello < visitor/>, thank you for accessing my profile! 👩🏽‍💻 
+Hello < visitor/>!
+
+Thank you for accessing my profile! 👩🏽‍💻 
 
 Currently my graduation course is Analysis and Development of Systems by Descomplica. 
 I study and practice daily, and also by extra courses and acquiring study grants.
